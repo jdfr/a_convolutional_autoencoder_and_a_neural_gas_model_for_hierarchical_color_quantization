@@ -1,6 +1,18 @@
 # A convolutional autoencoder and a neural gas model based on Bregman divergences for hierarchical color quantization
 
-This is the source code used to get the results in the paper "A convolutional autoencoder and a neural gas model based on Bregman divergences for hierarchical color quantization", accepted for publication in the journal Neurocomputing.
+This is the source code used to get the results in the paper "A convolutional autoencoder and a neural gas model based on Bregman divergences for hierarchical color quantization":
+
+```
+@article{fernandez2023convolutional,
+  title={A convolutional autoencoder and a neural gas model based on Bregman divergences for hierarchical color quantization},
+  author={Fern{\'a}ndez-Rodr{\'\i}guez, Jos{\'e} David and Palomo, Esteban J and Benito-Picazo, Jes{\'u}s and Dom{\'\i}nguez, Enrique and L{\'o}pez-Rubio, Ezequiel and Ortega-Zamorano, Francisco},
+  journal={Neurocomputing},
+  volume={544},
+  pages={126288},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
 The code is written by Jose David Fernandez Rodriguez, building upon previous code for competitive clustering techniques (in a classic learning setting, i.e. before integrating convolutional autoencoders, and with a more limited analysis of results) by Jesus de Benito Picazo, Esteban Palomo Ferrer and Ezequiel Lopez Rubio.
 
