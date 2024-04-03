@@ -14,7 +14,7 @@ This is the source code used to get the results in the paper "A convolutional au
 }
 ```
 
-The code is written by Jose David Fernandez Rodriguez, building upon previous code for competitive clustering techniques (in a classic learning setting, i.e. before integrating convolutional autoencoders, and with a more limited analysis of results) by Jesus de Benito Picazo, Esteban Palomo Ferrer and Ezequiel Lopez Rubio.
+The code is written by Jose David Fernandez Rodriguez, building upon previous code for competitive clustering techniques (in a classic learning setting, i.e. before integrating convolutional autoencoders, and with a more limited analysis of results) by Jesus de Benito Picazo, Esteban Palomo Ferrer and Ezequiel Lopez Rubio. This code is now released under the AGPLv3, as part of a drive to harmonize licensing terms over all my repositories for journal papers.
 
 The code is written as a set of Matlab scripts working together with a python script (`pruebaconv1.py`) to train and run the convolutional autoencoders using pytorch.
 
